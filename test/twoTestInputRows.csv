@@ -1,0 +1,3 @@
+type,name,enabled,ingredient 1,ingredient 1 quantity,ingredient 2,ingredient 2 quantity,ingredient 3,ingredient 3 quantity,ingredient 4,ingredient 4 quantity,ingredient 5,ingredient 5 quantity,energy_required,result,result_count,requester_paste_multiplier
+recipe,player-port,FALSE,electronic-circuit,10,iron-gear-wheel,5,iron-plate,1,,,,,,player-port,1,1
+recipe,fast-transport-belt,FALSE,iron-gear-wheel,5,transport-belt,1,,,,,,,,fast-transport-belt,1,4
